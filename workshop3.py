@@ -1,5 +1,5 @@
 from area import rectangle_area, circle_area, prism_volume, sphere_volume
-
+from cube import rectangle_volume as cube_rectangle_volume, sphere_volume as cube_sphere_volume
  
 def main():
     print("************************************************ AREA & CUBE ************************************************")
